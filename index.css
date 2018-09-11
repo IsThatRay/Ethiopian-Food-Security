@@ -1,0 +1,51 @@
+html, body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.Header {
+  display: block;
+  background-color: #7FBA76;
+  width: 100%;
+  margin:0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  overflow:hidden;
+}
+
+.Header img {
+  display: block;
+  float: left;
+  padding-left:10px;
+  padding-right:10px;
+}
+
+.Header h1 {
+ display: block;
+ color: white;
+ font-family: Arial;
+ margin: auto;
+}
+
+.Nav {
+  display:block;
+  margin:0px;
+  padding-top:10px;
+  padding-bottom:10px;
+  width:100%;
+  background-color:#6B9864;
+  overflow:hidden
+}
+
+.Nav a {
+  display:block;
+  padding:10px;
+  text-decoration:none;
+  font-family:Arial;
+  color:white;
+  float:left;
+}
+
+.Nav a:hover {
+  background-color:#90C089;
+}
