@@ -50,6 +50,11 @@ html, body {
   background-color:#90C089;
 }
 
+.Reference {
+  color: #8F8F8F;
+  font-size:10px;
+}
+
 footer h2 {
   background-color: #7C7C7C;
   font-family:Arial;
